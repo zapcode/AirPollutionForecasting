@@ -22,3 +22,14 @@ Specifically, weather observations such as temperature, pressure, wind speed, an
 
 - [ ] Summary of Results
 
+### New To Learn
+
+1. *Naive Methods*
+
+2. *Global Naive Methods*
+
+3. *Chunk Naive Methods*
+
+4. *Chunk Naive Methods*
+
+5. *Time stamping*
