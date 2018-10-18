@@ -30,6 +30,6 @@ Specifically, weather observations such as temperature, pressure, wind speed, an
 
 3. *Chunk Naive Methods*
 
-4. *Chunk Naive Methods*
+4. *Global Naive Methods*
 
 5. *Time stamping*
