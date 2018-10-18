@@ -10,7 +10,7 @@ Specifically, weather observations such as temperature, pressure, wind speed, an
 
 ### Project Overview
 
-- [x] Descriptin
+- [x] Description
 
 - [ ] Naive Methods
 
