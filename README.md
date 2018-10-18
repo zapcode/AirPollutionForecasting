@@ -10,15 +10,15 @@ Specifically, weather observations such as temperature, pressure, wind speed, an
 
 ### Project Overview
 
-[x] Descriptin
+- [x] Descriptin
 
-[ ] Naive Methods
+- [ ] Naive Methods
 
-[ ] Model Evaluation
+- [ ] Model Evaluation
 
-[ ] Global Naive Methods
+- [ ] Global Naive Methods
 
-[ ] Chunk Naive Methods
+- [ ] Chunk Naive Methods
 
-[ ] Summary of Results
+- [ ] Summary of Results
 
